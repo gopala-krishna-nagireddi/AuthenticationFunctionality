@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.links-container {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+
+.link-item {
+  margin: 0 10px;
+}
